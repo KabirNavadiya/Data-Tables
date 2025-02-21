@@ -1,0 +1,10 @@
+.container{
+    width: 85%;
+}
+table.dataTable td.highlight{
+    color: white;
+    background-color: rgba(24, 112, 245, 0.808);
+}
+a:hover{
+    cursor: pointer;
+}
